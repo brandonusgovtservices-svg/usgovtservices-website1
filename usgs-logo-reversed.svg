@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -10 432 132" width="432" height="132" role="img" aria-label="US Government Services LLC">
+  <title>US Government Services LLC (reversed)</title>
+  <defs>
+    <clipPath id="usgsShieldR"><path d="M50 4 L92 18 V52 C92 82 73 100 50 110 C27 100 8 82 8 52 V18 Z"></path></clipPath>
+  </defs>
+  
+  <rect x="-10" y="-8" width="120" height="128" rx="14" fill="#FFFFFF"></rect>
+  <g clip-path="url(#usgsShieldR)">
+    <rect x="0" y="0" width="100" height="112" fill="#FFFFFF"></rect>
+    <rect x="0" y="42" width="14.3" height="70" fill="#B22234"></rect>
+    <rect x="28.6" y="42" width="14.3" height="70" fill="#B22234"></rect>
+    <rect x="57.2" y="42" width="14.3" height="70" fill="#B22234"></rect>
+    <rect x="85.8" y="42" width="14.3" height="70" fill="#B22234"></rect>
+    <rect x="0" y="0" width="100" height="44" fill="#0A2240"></rect>
+    <polygon fill="#FFFFFF" points="50,12 52.8,20.1 61.4,20.3 54.6,25.5 57.1,33.7 50,28.8 42.9,33.7 45.4,25.5 38.6,20.3 47.2,20.1"></polygon>
+  </g>
+  <path d="M50 4 L92 18 V52 C92 82 73 100 50 110 C27 100 8 82 8 52 V18 Z" fill="none" stroke="#0A2240" stroke-width="3"></path>
+  <text x="134" y="46" font-family="Public Sans, Arial, sans-serif" font-weight="800" font-size="30" letter-spacing="0.5" fill="#FFFFFF">US GOVERNMENT</text>
+  <text x="134" y="78" font-family="Public Sans, Arial, sans-serif" font-weight="800" font-size="30" letter-spacing="0.5" fill="#FFFFFF">SERVICES</text>
+  <text x="136" y="98" font-family="Public Sans, Arial, sans-serif" font-weight="700" font-size="13" letter-spacing="3" fill="#E2566A">LLC · SDVOSB</text>
+</svg>

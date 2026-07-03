@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="USGS">
+  <title>US Government Services LLC favicon</title>
+  <defs>
+    <clipPath id="usgsShieldFav"><path d="M60 12 L98 25 V57 C98 84 80 99 60 108 C40 99 22 84 22 57 V25 Z"></path></clipPath>
+  </defs>
+  <rect width="120" height="120" rx="22" fill="#0A2240"></rect>
+  <g clip-path="url(#usgsShieldFav)">
+    <rect x="0" y="0" width="120" height="120" fill="#FFFFFF"></rect>
+    <rect x="22" y="52" width="9.5" height="60" fill="#B22234"></rect>
+    <rect x="41" y="52" width="9.5" height="60" fill="#B22234"></rect>
+    <rect x="60" y="52" width="9.5" height="60" fill="#B22234"></rect>
+    <rect x="79" y="52" width="9.5" height="60" fill="#B22234"></rect>
+    <rect x="0" y="0" width="120" height="51" fill="#0A2240"></rect>
+    <polygon fill="#FFFFFF" points="60,20 63.4,29.7 73.7,30 65.5,36.3 68.5,46.0 60,40.1 51.5,46.0 54.5,36.3 46.3,30 56.6,29.7"></polygon>
+  </g>
+  <path d="M60 12 L98 25 V57 C98 84 80 99 60 108 C40 99 22 84 22 57 V25 Z" fill="none" stroke="#0A2240" stroke-width="3"></path>
+</svg>
